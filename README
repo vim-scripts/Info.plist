@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1739
+
+This is a companion file to the RunVim.applescript file. Finder and LaunchServices use this file to map file types to their corresponding applications.
+
+Full details on: http://www.fastnlight.com/runvim
